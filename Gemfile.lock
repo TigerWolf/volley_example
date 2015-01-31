@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    volley_motion (0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  volley_motion
