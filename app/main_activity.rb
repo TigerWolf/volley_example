@@ -2,7 +2,7 @@ class MainActivity < Android::App::Activity
   def onCreate(savedInstanceState)
     super
     fetch_list
-    post_example
+    #post_example
   end
 
   def fetch_list
